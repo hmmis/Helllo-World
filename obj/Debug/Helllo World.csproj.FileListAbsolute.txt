@@ -1,0 +1,6 @@
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\bin\Debug\Helllo World.exe.config
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\bin\Debug\Helllo World.exe
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\bin\Debug\Helllo World.pdb
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\obj\Debug\Helllo World.csprojResolveAssemblyReference.cache
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\obj\Debug\Helllo World.exe
+H:\SHOVON's PROGRAMMING\C#\Helllo World\Helllo World\obj\Debug\Helllo World.pdb
